@@ -1,0 +1,14 @@
+{
+  "name": "lemon-energy-ps",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "Lucas Matos",
+  "private": true,
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
